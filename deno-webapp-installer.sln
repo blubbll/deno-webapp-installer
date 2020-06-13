@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "deno-webapp-installer", "deno-webapp-installer\deno-webapp-installer.csproj", "{475A157B-6F01-49D0-8BB0-683307E879D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{475A157B-6F01-49D0-8BB0-683307E879D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{475A157B-6F01-49D0-8BB0-683307E879D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{475A157B-6F01-49D0-8BB0-683307E879D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{475A157B-6F01-49D0-8BB0-683307E879D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17F505A8-7206-4619-8C9B-3662ED37FB99}
+	EndGlobalSection
+EndGlobal
